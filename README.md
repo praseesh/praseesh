@@ -21,8 +21,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=praseesh&theme=darkhub&no-frame=true&margin-w=15" alt="praseesh's GitHub trophies" />
 </div>
-📈 Contribution Graph
-<p><img align = "center"  src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&" alt="praseesh" /></p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=praseesh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
