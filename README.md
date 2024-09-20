@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm praseesh</h1>
+<h1 align="center">Hi 👋, I'm Praseesh  Python Developer</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Python+%7C+Django+Enthusiast;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Python+%7C+Django+Enthusiast;" alt="Typing SVG" />
 </div>
 
 - 🌱 I’m currently learning **Python | Django |**
