@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Python+Django+Enthusiast;" alt="Typing SVG" />
 </div>
 
-- 🌱 I’m currently learning **Python | Django |**
+- 🌱 I’m currently learning **Python | Django **
 
 - 💬 Ask me about **Python | Django**
 
