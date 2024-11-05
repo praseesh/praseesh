@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Python+Django+Enthusiast;" alt="Typing SVG" />
 </div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -12,7 +11,6 @@
 - 🛠️ Currently enhancing my expertise in **NoSQL databases** and studying **Redis** integration
 - 📘 Proud to be a self-learner, actively building projects and sharing knowledge through articles
 - 🏆 With over **1 year of experience**, I’m eager to contribute to open-source projects and community-driven work
-
 ---
 
 ### 🚀 Technical Skills
@@ -69,8 +67,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
-
-
 ---
 
 ### 📚 Projects & Achievements
@@ -83,7 +79,6 @@
 
 3. **IMDB API**  
    &nbsp;&nbsp;&nbsp;&nbsp;A custom API for fetching and displaying movie details, showcasing dynamic querying and optimized API response handling.
-
 ---
 
 ### 📝 Blog Contributions
@@ -91,7 +86,6 @@ I’m an active writer, sharing insights into backend development, Django, Redis
 - [Integrating Redis with Django for High-Performance Caching](https://medium.com/@praseeshprasee/integrating-redis-with-django-for-high-performance-caching-80360c84da0a)
 - [Virtualization vs. Containerization](https://medium.com/@praseeshprasee/virtualization-vs-containerization-bdf5b25fb770)
 - [Django Request/Response Lifecycle](https://dev.to/praseesh_p_/django-requestresponse-life-cycle-4lpd)
-
 ---
 
 ### 📊 GitHub Stats
@@ -101,10 +95,8 @@ I’m an active writer, sharing insights into backend development, Django, Redis
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&theme=github-dark-blue&hide_border=true" alt="Praseesh's GitHub streak" />
 </div>
-## 📊 Most Used Languages
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&locale=en" alt="praseesh" /></p>
-
 ---
+
 ## :email: Find me on:
 
 <p align="center">
@@ -121,7 +113,6 @@ I’m an active writer, sharing insights into backend development, Django, Redis
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
-
 ---
 
 “Code, learn, share, and grow!” learn, share, and grow!”</em>
