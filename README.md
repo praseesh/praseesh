@@ -46,6 +46,9 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
   </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="vertical-align:top; margin:4px">
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
   </a>
@@ -58,12 +61,7 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django REST Framework" height="40" style="vertical-align:top; margin:4px">
-  </a>
+
   <a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
   </a>
@@ -110,13 +108,20 @@ I’m an active writer, sharing insights into backend development, Django, Redis
 ## :email: Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/praseesh" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="mailto:praseeshprasee@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://medium.com/@praseeshprasee" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5977/5977598.png" alt="Medium" height="40" style="vertical-align:top; margin:4px"> </a>
-  <a href="https://leetcode.com/u/praseesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
- <a href="https://dev.to/praseesh_p_" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" height="40" style="vertical-align:top; margin:4px"> </a>
-
+  <a href="https://www.linkedin.com/in/praseesh" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="mailto:praseeshprasee@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://leetcode.com/u/praseesh/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://dev.to/praseesh_p_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" height="40" style="vertical-align:top; margin:4px">
+  </a>
 </p>
+
 ---
 
 “Code, learn, share, and grow!” learn, share, and grow!”</em>
