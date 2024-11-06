@@ -13,6 +13,7 @@
 ---
 
 ### 🚀 Technical Skills
+---
 - **Languages:** Python, SQL
 - **Frameworks:** Django, Django Rest Framework (DRF)
 - **Databases:** PostgreSQL, MySQL, Redis (with `django-redis`),SQLite
@@ -20,6 +21,7 @@
 - **Current Studies:** Redis, NoSQL, Advanced Django optimizations
 
 ## 🧰 Languages and Tools:
+---
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -68,7 +70,7 @@
 
 
 ### 📚 Projects & Achievements
-
+---
 1. **Hospital Management System**  
    &nbsp;&nbsp;&nbsp;&nbsp;Developed a comprehensive hospital management solution using Django and PostgreSQL, containerized for scalability and ease of deployment.
 
@@ -80,6 +82,7 @@
 
 
 ### 📝 Blog Contributions
+---
 I’m an active writer, sharing insights into backend development, Django, Redis integration, and more. Check out my latest articles:
 - [Integrating Redis with Django for High-Performance Caching](https://medium.com/@praseeshprasee/integrating-redis-with-django-for-high-performance-caching-80360c84da0a)
 - [Virtualization vs. Containerization](https://medium.com/@praseeshprasee/virtualization-vs-containerization-bdf5b25fb770)
