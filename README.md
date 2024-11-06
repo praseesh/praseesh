@@ -87,13 +87,13 @@ I’m an active writer, sharing insights into backend development, Django, Redis
 
 
 ### 📊 GitHub Stats
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&theme=github_dark&hide_title=true" alt="Praseesh's GitHub stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&theme=github-dark-blue&hide_border=true" alt="Praseesh's GitHub streak" />
 </div>
----
 
 ## :email: Find me on:
 
