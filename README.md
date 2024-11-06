@@ -18,7 +18,6 @@
 - **Databases:** PostgreSQL, MySQL, Redis (with `django-redis`),SQLite
 - **Tools & Technologies:** Docker, Kubernetes, AWS, RabbitMQ, Celery
 - **Current Studies:** Redis, NoSQL, Advanced Django optimizations
----
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -66,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
----
+
 
 ### 📚 Projects & Achievements
 
@@ -78,14 +77,14 @@
 
 3. **IMDB API**  
    &nbsp;&nbsp;&nbsp;&nbsp;A custom API for fetching and displaying movie details, showcasing dynamic querying and optimized API response handling.
----
+
 
 ### 📝 Blog Contributions
 I’m an active writer, sharing insights into backend development, Django, Redis integration, and more. Check out my latest articles:
 - [Integrating Redis with Django for High-Performance Caching](https://medium.com/@praseeshprasee/integrating-redis-with-django-for-high-performance-caching-80360c84da0a)
 - [Virtualization vs. Containerization](https://medium.com/@praseeshprasee/virtualization-vs-containerization-bdf5b25fb770)
 - [Django Request/Response Lifecycle](https://dev.to/praseesh_p_/django-requestresponse-life-cycle-4lpd)
----
+
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -112,7 +111,7 @@ I’m an active writer, sharing insights into backend development, Django, Redis
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
----
+
 
 “Code, learn, share, and grow!” learn, share, and grow!”</em>
 </div>
