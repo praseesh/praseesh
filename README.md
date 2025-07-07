@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hello, traveler. I’m Praseesh!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=I+craft+scalable+backends.;Python+%7C+Django+%7C+Redis;Breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=I+craft+scalable+backends.;Python+%7C+Django;Breaking+things+to+learn+how+they+work" alt="Typing SVG" />
 </p>
 
 ---
