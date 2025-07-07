@@ -1,78 +1,64 @@
-<h1 align="center">
-  👋 Hi there, I'm Praseesh!
-</h1>
+<h1 align="center">Yo! I appear as a Backend Developer ☕</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Django+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Code+by+day+and+night;Building+scalable+backends;Writing+clean+Python+since+forever" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🌍 Based in **Kannur, Kerala**
-- 🔥 Focused on building scalable, high-performance web apps with **Python & Django**
-- 🚀 Diving deep into **NoSQL databases** and **Redis**
-- ✍️ Passionate about self-learning and writing technical blogs
-- 🎯 Over **1 year of professional experience**, and eager to contribute to open-source projects
+I assume many forms in this digital plane: backend dev, occasional sysadmin, blog writer, and perpetual debugger.  
+By day? A Django artisan crafting APIs. By night? Still coding, because time zones don’t apply when the code flows.
+
+Yes, I thrive in the command line, and yes, I think Redis is beautiful.
+
+(Though, in truth, I share this for the joy of building — and perhaps to find like-minded mortals.)
 
 ---
 
-## 🚀 Technical Skills
-- **Languages:** Python, SQL  
-- **Frameworks:** Django, Django Rest Framework (DRF)  
-- **Databases:** PostgreSQL, MySQL, SQLite, Redis  
-- **Tools:** Docker, Kubernetes, RabbitMQ, Celery, AWS  
-- **Currently learning:** Redis, NoSQL, advanced Django optimizations
+## 🛠️ Toolbox
+
+Python • SQL • Django • DRF • Redis • Celery  
+Docker • Kubernetes • AWS • RabbitMQ • Git  
+PostgreSQL • MySQL • SQLite
 
 ---
 
-## 📚 Projects & Achievements
-- **Hospital Management System** — Full-featured Django + PostgreSQL solution, containerized with Docker.
-- **Blog Platform with OTP Auth** — Blog app with secure OTP-based login and Celery-powered async tasks.
-- **IMDB API Clone** — REST API for movie data with advanced querying and optimized responses.
+## 🔥 Currently Exploring
+
+- Redis integrations & advanced caching patterns  
+- Asynchronous processing with Celery  
+- High-performance API design patterns
 
 ---
 
-## 📝 Latest Blog Posts
-- 🔗 [Integrating Redis with Django for High-Performance Caching](https://medium.com/@praseeshprasee/integrating-redis-with-django-for-high-performance-caching-80360c84da0a)
-- 🔗 [Virtualization vs. Containerization](https://medium.com/@praseeshprasee/virtualization-vs-containerization-bdf5b25fb770)
-- 🔗 [Django Request/Response Lifecycle](https://dev.to/praseesh_p_/django-requestresponse-life-cycle-4lpd)
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praseesh&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praseesh&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 🐍 The snake that devours commits
 
 <p align="center">
-  <a href="mailto:praseeshprasee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/praseesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/praseesh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://dev.to/praseesh_p_" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to Badge"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
+## 📬 Find Me Here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praseesh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praseeshprasee@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/praseesh/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/praseesh_p_)
+
+---
+
 <p align="center">
-  <em>“Code, learn, share, and grow!” 🚀</em>
+  <em>“Code boldly. Debug bravely. Ship confidently.” 🚀</em>
 </p>
