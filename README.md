@@ -54,15 +54,23 @@
 
 ---
 
-## 📈 GitHub Activity
+### 🐍 Watch the Snake Devour My Contributions
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/praseesh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="Metrics" />
-  <br>
-  <img src="https://github.com/praseesh/praseesh/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
+
+### 📊 Stats Worth Bragging About
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ## 🏆 Achievements
 
