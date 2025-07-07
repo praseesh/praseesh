@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Praseesh Py</h1>
+<h1 align="center">🚀 Praseesh P</h1>
 
 <p align="center">
   Backend Developer | Distributed Systems Enthusiast | Cloud-Native Developer
