@@ -52,29 +52,6 @@ I am a passionate backend developer with a focus on designing and implementing s
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praseesh&show_icons=true&theme=dracula&hide_title=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praseesh&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- **Open Source Contributor**: Actively contribute to open-source projects, enhancing community-driven software.
-- **Performance Optimization**: Improved application performance by 10x through advanced caching and query optimization.
-- **Cloud Migration**: Successfully led migrations of legacy systems to cloud-native architectures.
-- **Hackathon Winner**: Recognized for innovative solutions in competitive coding and system design challenges.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praseesh&theme=dracula&row=1&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
 
 ## 📝 Recent Articles
 
