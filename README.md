@@ -52,7 +52,6 @@ I am a passionate backend developer with a focus on designing and implementing s
 
 ---
 
-
 ## 📝 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
