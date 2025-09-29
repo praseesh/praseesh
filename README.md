@@ -57,7 +57,7 @@ I am a passionate backend developer with a focus on designing and implementing s
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Django ORM for High-Performance Applications](https://dev.to/praseesh_p_/optimizing-django-orm)
-- [Scaling with Redis: Patterns for Performance](https://medium.com/@praseeshprasee/demystifying-django-orm-what-really-happens-behind-the-scenes-906a8d072ec2)
+- [Demystifying Django ORM: What Really Happens Behind the Scenes](https://medium.com/@praseeshprasee/demystifying-django-orm-what-really-happens-behind-the-scenes-906a8d072ec2)
 - [Best Practices for Maintainable Code in Fast-Paced Environments](https://dev.to/praseesh_p_/maintainable-code)
 <!-- BLOG-POST-LIST:END -->
 ---
